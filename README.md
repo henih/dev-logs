@@ -14,3 +14,7 @@ Today I...
 
 - Worked on my E-commerce SQL DB project for CFG
 - Check that my tables are normalized, finalized the ER Diagram, created a stored function and procedure and some views.
+
+### 09-02-2024
+
+- Learned how to store data in Firestore DB with NO-SQL
