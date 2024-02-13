@@ -18,3 +18,9 @@ Today I...
 ### 09-02-2024
 
 - Learned how to store data in Firestore DB with NO-SQL
+
+### 13-02-2024
+
+- Finalized my E-commerce SQL DB project
+- Learned how to backup and restore MySQL databases
+-
