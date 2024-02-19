@@ -23,4 +23,7 @@ Today I...
 
 - Finalized my E-commerce SQL DB project
 - Learned how to backup and restore MySQL databases
--
+
+### 19-02-2024
+
+- Learned about how to deploy React App to Netlify and how to fix redirect issue
