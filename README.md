@@ -27,3 +27,7 @@ Today I...
 ### 19-02-2024
 
 - Learned about how to deploy React App to Netlify and how to fix redirect issue
+
+### 20-02-2024
+
+- I learned about the concept of Redux
