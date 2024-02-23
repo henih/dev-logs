@@ -31,3 +31,7 @@ Today I...
 ### 20-02-2024
 
 - I learned about the concept of Redux
+
+### 23-02-2024
+
+- Learned about the concept of Redux Thunk 
