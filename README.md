@@ -34,4 +34,8 @@ Today I...
 
 ### 23-02-2024
 
-- Learned about the concept of Redux Thunk 
+- Learned about the concept of Redux Thunk
+
+### 26-02-2024
+
+- Praticed Promise and learned more and practiced how to write async await
