@@ -38,4 +38,8 @@ Today I...
 
 ### 26-02-2024
 
-- Praticed Promise and learned more and practiced how to write async await
+- Practiced Promise and learned more and practiced how to write async await
+
+### 04-03-2024
+
+- Made some revisions about Git and the Terminal
