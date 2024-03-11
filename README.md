@@ -43,3 +43,7 @@ Today I...
 ### 04-03-2024
 
 - Made some revisions about Git and the Terminal
+
+### 11-03-2024
+
+- Learned about history of programming, computer architecture, and how the internet works from Balazs
