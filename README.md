@@ -47,3 +47,7 @@ Today I...
 ### 11-03-2024
 
 - Learned about history of programming, computer architecture, and how the internet works from Balazs
+
+### 12-03-2024
+
+- Practised Git branching and merging through Code First Girls course
